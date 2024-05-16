@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ConsumoApplication<consumo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.viacep.consumo.ConsumoApplication",
+            "projectName": "consumo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
